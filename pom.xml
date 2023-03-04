@@ -32,6 +32,7 @@
 
 	<build>
 		<defaultGoal>package</defaultGoal>
+		<finalName>app</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.graalvm.buildtools</groupId>
